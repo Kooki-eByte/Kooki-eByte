@@ -18,9 +18,10 @@
 
 ### Connect with me:
 
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://kooki-ebyte.github.io/Portfolio-Page/index.html)
 [<img align="left" alt="Cristian Hornedo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HornedoCristian)
-[<img align="left" alt="Cristian Hornedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-hornedo-a11ab8189/)
+[<img align="left" alt="Cristian Hornedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/cristian-hornedo/)
 [<img align="left" alt="Cristian Hornedo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kooki.ebyte/)
 
 <br />
