@@ -1,6 +1,7 @@
 ### Hi there, I'm Cristian - aka [Kooki-eByte] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/HornedoCristian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%HornedoCristian&screen_name=HornedoCristian)
 
 ## I'm a Developer, and Teacher!
@@ -12,11 +13,13 @@
 - ⚡ Fun fact: I am learning Japanese and i cannot smell only have 4/5 senses
 
 ### Spotify Playing 🎧
+
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="cristian_hornedo" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://kooki-ebyte.github.io/Portfolio-Page/index.html)
 [<img align="left" alt="Cristian Hornedo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HornedoCristian)
 [<img align="left" alt="Cristian Hornedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/cristian-hornedo/)
 [<img align="left" alt="Cristian Hornedo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kooki.ebyte/)
@@ -53,4 +56,3 @@
 <img align="left" alt="Kooki-eByte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kooki-eByte&show_icons=true&hide_border=true&theme=nord" /> 
 <br />
 <br />
-
