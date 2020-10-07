@@ -9,7 +9,7 @@
 - 🔭 I’m currently in a Web developer certificate program with UCF!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects & have a web developer job
 - ⚡ Fun fact: I am learning Japanese and i cannot smell only have 4/5 senses
 
 ### Spotify Playing 🎧
