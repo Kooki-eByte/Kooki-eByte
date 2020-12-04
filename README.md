@@ -6,11 +6,11 @@
 
 ## I'm a Developer, and Teacher!
 
-- 🔭 I’m currently in a Web developer certificate program with UCF!
+- 🔭 Certified Full-Stack Web Developer and love teaching other about Web Dev and Python!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs!
-- 🥅 2020 Goals: Contribute more to Open Source projects & have a web developer job
-- ⚡ Fun fact: I am learning Japanese and i cannot smell only have 4/5 senses
+- 🥅 2020 Goals: Contribute more to Open Source projects & have a developer job
+- ⚡ Fun fact: I am learning Japanese and I cannot smell, I only have 4/5 senses
 
 ### Spotify Playing 🎧
 
@@ -21,7 +21,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.cristianhornedo.com/)
 [<img align="left" alt="Cristian Hornedo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/HornedoCristian)
-[<img align="left" alt="Cristian Hornedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/cristian-hornedo/)
+[<img align="left" alt="Cristian Hornedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/cristian-hornedo/)
 [<img align="left" alt="Cristian Hornedo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kooki.ebyte/)
 
 <br />
