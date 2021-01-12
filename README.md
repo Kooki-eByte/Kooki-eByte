@@ -4,12 +4,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HornedoCristian?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%HornedoCristian&screen_name=HornedoCristian)
 
-## I'm a Developer, and Teacher!
+## I'm a Developer, and Teacher/Tutor!
 
-- 🔭 Certified Full-Stack Web Developer and love teaching other about Web Dev and Python!
+- 🔭 Certified Full-Stack Web Developer and love teaching other about coding!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs!
-- 🥅 2020 Goals: Contribute more to Open Source projects & have a developer job
+- 🥅 2020 Goals: Apply my passion and energy to a company who will take me in and continue to make more projects!
 - ⚡ Fun fact: I am learning Japanese and I cannot smell, I only have 4/5 senses
 
 ### Spotify Playing 🎧
@@ -44,11 +44,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist] -->
-<!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist] -->
 
 <br />
 
