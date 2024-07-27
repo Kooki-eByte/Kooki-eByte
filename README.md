@@ -9,7 +9,7 @@
 - 🔭 Certified Full-Stack Web Developer and love teaching other about coding!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs!
-- 🥅 2022 Goals: Grow in backend development with Java is my new technology learned in 2021!
+- 🥅 2024 Goals: Learn something new everyday!
 - ⚡ Fun fact: I am learning Japanese and I cannot smell, I only have 4/5 senses
 
 ### Spotify Playing 🎧
