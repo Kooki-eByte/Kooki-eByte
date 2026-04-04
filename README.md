@@ -6,10 +6,10 @@
 
 ## I'm a Software Engineer and Teacher/Tutor/Mentor
 
-- 🔭 Certified Full-Stack Web Developer and love teaching other about coding!
+- 🔭 Love teaching other about coding!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs!
-- 🥅 2024 Goals: Learn something new everyday!
+- 🥅 Goals: Learn something new everyday!
 - ⚡ Fun fact: I am learning Japanese and I cannot smell, I only have 4/5 senses
 
 ### Spotify Playing 🎧
